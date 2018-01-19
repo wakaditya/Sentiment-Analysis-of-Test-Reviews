@@ -1,0 +1,8 @@
+bs4
+flask
+requests
+wtforms
+nltk
+pyexcel
+cloudpickle
+gensim
